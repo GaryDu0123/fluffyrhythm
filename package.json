@@ -1,0 +1,13 @@
+{
+  "name": "fluffy-rhythm-local",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local runnable mirror of ubique.city/fluffyrhythm/",
+  "scripts": {
+    "start": "node server.mjs",
+    "mirror": "node tools/mirror.mjs",
+    "verify": "node tools/verify.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

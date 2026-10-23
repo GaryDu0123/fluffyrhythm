@@ -1,0 +1,101 @@
+{
+  "source": "https://ubique.city/fluffyrhythm/",
+  "downloadedAt": "2026-10-23T05:24:09.215Z",
+  "files": [
+    {
+      "url": "https://ubique.city/fluffyrhythm/",
+      "file": "public/index.html",
+      "bytes": 10607,
+      "sha256": "1b44d294585295e30218367a147671697adeb30d7c0e7eeb40f4e23cdba1779c",
+      "localSha256": "4ca7c4f7b1b1111e3a3d13e7248371829fd292bca7b476159a1bf09e76930e7f"
+    },
+    {
+      "url": "https://ubique.city/fluffyrhythm/favicon.svg",
+      "file": "public/favicon.svg",
+      "bytes": 434,
+      "sha256": "6ea74e83905870a3f7ab30d6e41b154f9a992430dd2d0955868d8c9959cf58eb"
+    },
+    {
+      "url": "https://ubique.city/fluffyrhythm/assets/images/fluffy-rhythm-main.webp",
+      "file": "public/assets/images/fluffy-rhythm-main.webp",
+      "bytes": 5267148,
+      "sha256": "8a63b9736ed32306d63e6085248f3425cc2dd4657d79240780eb92110da87594"
+    },
+    {
+      "url": "https://ubique.city/fluffyrhythm/assets/images/fluffy-rhythm-mobile.webp",
+      "file": "public/assets/images/fluffy-rhythm-mobile.webp",
+      "bytes": 1102360,
+      "sha256": "1e0f0c87617f63c1a51447e57d1331842327360ac36439b1b14e05ab8bb08fdd"
+    },
+    {
+      "url": "https://ubique.city/fluffyrhythm/assets/audio/tap-hit-trimmed.wav?v=10",
+      "file": "public/assets/audio/tap-hit-trimmed.wav",
+      "bytes": 70286,
+      "sha256": "18dc930ca42f668f0052a3a329983eebe6b85e86519932172568b58d41fe09f1"
+    },
+    {
+      "url": "https://ubique.city/fluffyrhythm/assets/audio/ui-button.wav?v=1",
+      "file": "public/assets/audio/ui-button.wav",
+      "bytes": 170242,
+      "sha256": "b13f01412bda4c0732512387dde34e2d756329a1876507411ab30506c32a74b3"
+    },
+    {
+      "url": "https://ubique.city/fluffyrhythm/styles.css?v=37",
+      "file": "public/styles.css",
+      "bytes": 51671,
+      "sha256": "d27536226962479de9222b21901ad955fa4d6f9bd395a0aeb6345448fb81a893",
+      "localSha256": "db1c070f97f6b747079506dc57bd7841d411392cf9842e6a2b3fb1bcec685dbe"
+    },
+    {
+      "url": "https://ubique.city/fluffyrhythm/assets/images/naru-cover.webp",
+      "file": "public/assets/images/naru-cover.webp",
+      "bytes": 142076,
+      "sha256": "055f5298faa5d64828a8521167bae42ee530e25ee192bab000ec623cbffd242d"
+    },
+    {
+      "url": "https://ubique.city/fluffyrhythm/assets/video/naru-background.mp4",
+      "file": "public/assets/video/naru-background.mp4",
+      "bytes": 12207003,
+      "sha256": "a7361a31bc9782345035e31165c575fd0a4313712f4aadbf40a93f206130c73e"
+    },
+    {
+      "url": "https://www.dropbox.com/scl/fi/z64mh3q2erxhfog0wi707/ubique_BGM1_250620.wav?rlkey=ok35g4iu4bnv10soe7f512qbo&raw=1",
+      "file": "public/assets/audio/menu-bgm.wav",
+      "bytes": 26862626,
+      "sha256": "532b9e44aa77b6021ccf2484f9b50606d56a911c1661f0ea07ec97289a625c6a"
+    },
+    {
+      "url": "https://ubique.city/fluffyrhythm/assets/audio/naru-game-preroll-v19.mp3",
+      "file": "public/assets/audio/naru-game-preroll-v19.mp3",
+      "bytes": 2113454,
+      "sha256": "8642dc96fcf6c0cfc954fe8d7b24b4b99501a36e904eba762ce294f814cf8f88"
+    },
+    {
+      "url": "https://ubique.city/fluffyrhythm/app.js?v=3",
+      "file": "public/app.js",
+      "bytes": 20556,
+      "sha256": "8b4e8b6500bc1a6b87ce6828a20b8601c78dfc23d17f43e0a68811868316172e",
+      "localSha256": "8b4e8b6500bc1a6b87ce6828a20b8601c78dfc23d17f43e0a68811868316172e"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/1gnt5OHSGBM/maxresdefault.jpg",
+      "file": "public/assets/external/i.ytimg.com/maxresdefault.jpg",
+      "bytes": 109566,
+      "sha256": "ce990aacaf4591516a09f536cde9847abe52727b5637e5b02592d70b5ecb4c9c"
+    },
+    {
+      "url": "https://ubique.city/fluffyrhythm/game-core.js",
+      "file": "public/game-core.js",
+      "bytes": 2460,
+      "sha256": "9bf97413ca88e2af5f80f07cf38e71800ca07dff866dfcdb3c1d11390c7a7f7b",
+      "localSha256": "9bf97413ca88e2af5f80f07cf38e71800ca07dff866dfcdb3c1d11390c7a7f7b"
+    },
+    {
+      "url": "https://ubique.city/fluffyrhythm/chart.json",
+      "file": "public/chart.json",
+      "bytes": 4691,
+      "sha256": "e7dbc4f7ab408e2e4148d238607a1cf2729bc39b2f427219c0e7c764afddd0ae",
+      "localSha256": "e7dbc4f7ab408e2e4148d238607a1cf2729bc39b2f427219c0e7c764afddd0ae"
+    }
+  ]
+}
